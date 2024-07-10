@@ -307,7 +307,7 @@ class _AppdrawerState extends State<Appdrawer> {
         },
       ),
       SizedBox(
-        height: 380,
+        height: 315.h,
       ),
       Padding(
                   padding: const EdgeInsets.only(right: 35),
